@@ -1,2 +1,2 @@
-# NakaChain
-Nakachain - Blockchain - BVM - Bitcoin
+# NakaChain.app
+[Nakachain](https://nakachain.app) - Blockchain - BVM - Bitcoin
